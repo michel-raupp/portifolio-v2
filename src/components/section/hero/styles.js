@@ -75,7 +75,7 @@ export const StyledHeroSection = styled(BaseSection)`
         &.close::after {
             content: '';
             width: 12px;
-            background-color: #333;
+            background-color: ${GlobalStyles.colors.background};
         }
 
         &.close::before {
@@ -158,7 +158,5 @@ export const StyledHeroSection = styled(BaseSection)`
                 height: 366px;
             }
         }
-
-
    }
 `
