@@ -156,7 +156,6 @@ export const StyledHeroSection = styled(BaseSection)`
             img{
                 width: 338px;
                 height: 366px;
-                filter: contrast(1.1);
             }
         }
 
