@@ -154,9 +154,9 @@ export const StyledHeroSection = styled(BaseSection)`
             background: ${GlobalStyles.gradient.primary};
             
             img{
-                width: 333px;
+                width: 338px;
                 height: 366px;
-
+                filter: contrast(1.1);
             }
         }
 

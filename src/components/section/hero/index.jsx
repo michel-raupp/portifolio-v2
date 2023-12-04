@@ -25,7 +25,7 @@ function HeroSection({dict}) {
                             src={profile}
                             alt='Michel Raupp'
                             width={"auto"}
-                            height={360}
+                            height={720}
                         />
                         <div className='status flex jc-start gap-base absolute'>
                             <div></div>

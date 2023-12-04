@@ -24,7 +24,7 @@ const ExperienceSection = ({dict}) => {
             title: dict.experiences.job_1.title,
             summary:  dict.experiences.job_1.summary,
             company:  dict.experiences.job_1.company,
-            date:  dict.experiences.job_1.title,
+            date:  dict.experiences.job_1.date,
             image: job1,
         },
         {
@@ -32,7 +32,7 @@ const ExperienceSection = ({dict}) => {
             title: dict.experiences.job_2.title,
             summary:  dict.experiences.job_2.summary,
             company:  dict.experiences.job_2.company,
-            date:  dict.experiences.job_2.title,
+            date:  dict.experiences.job_2.date,
             image: job2,
         },
         {
@@ -40,7 +40,7 @@ const ExperienceSection = ({dict}) => {
             title: dict.experiences.job_3.title,
             summary:  dict.experiences.job_3.summary,
             company:  dict.experiences.job_3.company,
-            date:  dict.experiences.job_3.title,
+            date:  dict.experiences.job_3.date,
             image: job3,
         },
     
