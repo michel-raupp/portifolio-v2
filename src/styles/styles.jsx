@@ -10,7 +10,7 @@ export const GlobalStyles = {
         glass: 'rgba(2, 16, 24, 0.80)',
         border: '#194866',
         background: '#021018',
-        text: '#DFF1FC',
+        text: '#fff',//#DFF1FC
         accent: '#FFB400',
     },
     sectionSizes: {

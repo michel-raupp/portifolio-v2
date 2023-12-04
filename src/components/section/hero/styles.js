@@ -5,8 +5,8 @@ import styled from "styled-components"
 
 export const StyledHeroSection = styled(BaseSection)`
     padding: 108px 0 32px 0;
-    opacity: 0;
-    animation: fadeIn 1.6s cubic-bezier(0.6, -0.28, 0, 1.25) 1s forwards;
+    /* opacity: 0; */
+    /* animation: fadeIn 1.6s cubic-bezier(0.6, -0.28, 0, 1.25) 1s forwards; */
 
     @keyframes fadeIn {
         0%{

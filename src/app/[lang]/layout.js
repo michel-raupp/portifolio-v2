@@ -20,7 +20,7 @@ export const metadata = {
 export default function RootLayout({ children, params }) {
 
   return (
-    <html lang={params.lang}>
+    <html lang={params.lang} className='crt'>
       <StyledComponentsRegistry>
         <body className={font.className}>
           <Header lang={params.lang} />
